@@ -1,0 +1,13 @@
+## Source list for Romview Core module
+set(ROMVIEW_CORE_SOURCES
+
+################################
+# Add or remove files here
+################################
+
+src/zsys.cpp
+src/romview.cpp
+src/alleg_compat.cpp
+
+## End of Romview Core module
+)
