@@ -9,11 +9,12 @@ The homepage contains information about the latest release, links to the latest 
 This repository contains the Zelda Classic source code, for use by the Zelda Classic developers and advanced users wanting to port ZC to new platforms. You do not need to download or compile the source if you want to play Zelda Classic or make quests on Windows, OS X, or (Debian) Linux.
 
 ### Screenshots
-![demo_quest!](screenshots/demo.png)  ![lost_isle1!](screenshots/lost1.png)  ![lost_isle2!](screenshots/lost2.png)
-![heavens_quest!](screenshots/heavens.png)  ![impossible_quest!](screenshots/di.png)  ![zoria_quest!](screenshots/zoria.png)
-![tortugal_quest!](screenshots/tort.png)
 
-![editor1!](screenshots/editor1.png)  ![editor2!](screenshots/editor2.png)
+<img src="screenshots/demo.png"> <img src="screenshots/lost1.png"> <img src="screenshots/lost2.png"> 
+<img src="screenshots/saffith.png"> <img src="screenshots/di.png"> <img src="screenshots/zoria.png"> 
+<img src="screenshots/tort.png"> <img src="screenshots/heavens.png">
+
+<img src="screenshots/editor1.png" width="400" height="300"> <img src="screenshots/editor2.png" width="400" height="300">
 
 ## Building the Source
 
