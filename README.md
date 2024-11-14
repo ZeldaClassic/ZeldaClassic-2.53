@@ -73,7 +73,7 @@ The compiled binaries **will not run** on their own without support files. These
 
 ## Contributing to Zelda Classic
 
-This version of Zelda Classic was released in 2019 and is essentially in archival form. It is highly unlikely to have future releases, although compilation issues and bugfixes are welcome. In this case please read the CONTRIBUTE file.
+This version of Zelda Classic was released in 2019 and is essentially in archival form. It is highly unlikely to have future releases, although porting to new platforms, compilation issues and bugfixes are welcome. In this case please read the CONTRIBUTE file.
 
 ## License
 
